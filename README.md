@@ -22,7 +22,7 @@ Este projeto realiza uma análise exploratória de dados (EDA) no conjunto de da
 A análise revelou várias correlações significativas entre as características das casas e seus preços. A matriz de correlação e as visualizações fornecem insights valiosos sobre os dados.
 
 ## Instruções para Reproduzir
-1. Clone o repositório: `git clone https://github.com/seuusuario/boston-housing-eda.git`
+1. Clone o repositório: `git clone https://github.com/geffinh0/boston-housing-eda.git`
 2. Navegue até o diretório do projeto: `cd boston-housing-eda`
 3. Instale as dependências: `pip install -r requirements.txt`
 4. Execute o notebook Jupyter: `jupyter notebook notebooks/eda_boston_housing.ipynb`
