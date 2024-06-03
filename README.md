@@ -28,5 +28,5 @@ A análise revelou várias correlações significativas entre as característica
 4. Execute o notebook Jupyter: `jupyter notebook notebooks/eda_boston_housing.ipynb`
 
 ## Contato
-- [Seu Nome](https://www.linkedin.com/in/seuusuario)
-- Email: seuemail@example.com
+- [Gefferson Viana da Costa](https://www.linkedin.com/in/gefferson-costa-403303195/)
+- Email: contato.gefferson@hotmail.com
